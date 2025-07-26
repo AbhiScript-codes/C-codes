@@ -1,4 +1,4 @@
-//DSA Program for binary search algo
+//DSA Program for binary search algorithm
 
 #include<iostream>
 #include<algorithm>
