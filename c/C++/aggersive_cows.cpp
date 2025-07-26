@@ -1,3 +1,5 @@
+//DSA Program for binary search algo
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
