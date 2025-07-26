@@ -1,3 +1,5 @@
+//This program is to add two matrices
+
 #include<stdio.h>
 int main(){
     int arr[3][3]={14,26,39,78,34,43,65,56,04};
